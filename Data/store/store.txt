@@ -39,7 +39,33 @@ Ziel ist es alle feindlichen Türme einzunehmen und die eigenen Türme zu vertei
 <b>Standort:</b> Bluetooth braucht (warum auch immer) die Standort Berechtigung
 <b>In-App Käufe:</b> Um Welten freizuschalten obwohl man nicht genug Punkte hat :)
 
+Full text [IT]:
 
+Cannon Conquest è un divertente ed impegnativo puzzle shooter in due dimensioni.
+Conquista i cannoni nemici mentre tenti di difendere i tuoi.
+
+<u>Caratteristiche:</u>
+
+<b> * Quattro diversi mondi con caratteristiche diverse, con un totale di più di 100 livelli </b>
+
+<b> * Multiplayer locale tramite Bluetooth </b>
+
+ * 4 difficoltà per livello
+
+ * Classifiche online e salvataggio tramite account
+
+ * Sei tipi di cannoni diversi e molte altre variazioni nel gameplay
+ 
+ * Quarta difficoltà <i>estremamente</i> impegnativa 
+
+ * Nessuna pubblicità, tutti i livelli sono sbloccabili 
+
+<u>Permessi:</u>
+
+<b>Internet:</b> Classifiche online e sincronizzazione account
+<b>Bluetooth:</b> Per il multiplayer locale
+<b>Posizione:</b> Per qualche strano motivo il bluetooth funziona solo con la Posizione...
+<b>Acquisti In-App:</b> Per sbloccare i mondi senza avere abbastanza punti
 
 Full text [US]:
 
@@ -84,6 +110,11 @@ Optional Prefix [US-FULL]:
 This is the full version of Cannon Conquest.
 It contains no ads or in-app products. All levels and worlds can be unlocked and the multiplayer is included.
 
+Optional Prefix [IT-FULL]:
+
+Questa è la versione completa di Cannon Conquest.
+Non ha pubbicità o acquisti in app. Tutti i livelli e i mondi sono sbloccati e il multiplayer è attivo.
+
 
 
 
@@ -94,28 +125,36 @@ In App Products:
 gd_multiplayer
 Cannon Conquest - Multiplayer
 Cannon Conquest - Mehrspieler
+Cannon Conquest - Multiplayer
 Play against friends and family over bluetooth
 Spiele gegen deine Freunde mittels Bluetooth
+Gioca contro amici e famiglia tramite Bluetooth
 
 
 gd_world_002
 Cannon Conquest - World 2
 Cannon Conquest - Welt 2
+Cannon Conquest - Mondo 2
 Unlock World 2
 Entsperrt Welt 2
+Sblocca il mondo 2
 
 
 gd_world_003
 Cannon Conquest - World 3
 Cannon Conquest - Welt 3
+Cannon Conquest - Mondo 3
 Unlock World 3
 Entsperrt Welt 3
+Sblocca il mondo 3
 
 
 gd_world_004
 Cannon Conquest - World 4
 Cannon Conquest - Welt 4
+Cannon Conquest - Mondo 4
 Unlock World 4
 Entsperrt Welt 4
+Sblocca il mondo 4
 
 
